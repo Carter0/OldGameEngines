@@ -1,0 +1,3 @@
+Some code and assets from TwinklebearDev SDL 2.0 Tutorial
+https://www.willusher.io/pages/sdl2/
+https://github.com/Twinklebear/TwinklebearDev-Lessons

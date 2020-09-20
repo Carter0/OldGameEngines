@@ -1,0 +1,49 @@
+* Milestone 2
+
+Must
+[X] Players shall have a ship to fly the screen around controled by the keyboard 
+[X] Players shall be able to fire their weapon using the keyboard 
+[X] Game shall have enemies the player can shoot at 
+[X] Game shall remove enemies when they are hit 
+[X] Game shall give the player points when they destroy an enemy 
+[X] Game shall remove the player when they are hit 
+
+Should
+[X] Game shall remove the player when they are hit 
+[X] Player should have multiple lives 
+
+Could
+[X] Game could have multiple enemy types - Game has 3 classes of ships
+[X] Game could have multiple weapon types - Each enemy type has a different weapon pattern and fire rate.
+
+Won't
+[] Game will not have multiple levels - First week is intended to define the behavior and backend logic for enemies, spawners,
+	and weapons, actual levels will come next milestone.
+[X] Game will not have backgrounds -  I lied.
+
+
+
+* Milestone 3
+
+Must
+[X] Players shall be able to upgrade / change their weapons through powerups 
+[X] Game shall have ships that take more than shot to destroy 
+[X] Game shall have multiple levels 
+[X] Game shall have parallax backgrounds 
+
+Should
+[ ] Game should have a boss with special mechanics 
+[X] Game should have multiple collectable types 
+
+Could
+[ ] Game could have a high score board 
+[X] Be awesome? 
+
+Won't
+[X] Suck? 
+[X] Crash? 
+
+Extensions
+Jake - [ Game will have a power-up system. (Extension from Project 1) ] - Done
+Jake - [ Game will have a configurable camera. (Extension from Project 2) ] - Done
+Jake - [ Game will have a parallax backgrounds. ] - Done

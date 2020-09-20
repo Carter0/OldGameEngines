@@ -1,0 +1,35 @@
+-- Who worked on this lab?
+Carter Weinberg 
+
+
+-- How many hours did it take you to complete this lab?
+1
+
+
+-- Describe your approach to implementing the lab.
+I just followed through with what the teacher did during class.
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+Nope, I am an undergrad so I don't have to.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Nope.
+
+
+-- Did you use any external resources? If so, cite them below.
+Nope.
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+Nope. Other than following along with the professor. 
+
+
+-- (Optional) What was your favorite part of the lab?
+I liked seeing the component pattern in c++. It is interesting to see and I actually really like it.
+
+
+-- (Optional) How would you improve the lab?
+I thought this one was really good. Though I know the windows people were having trouble, so the prof needs to make sure it works on both 
+platforms.

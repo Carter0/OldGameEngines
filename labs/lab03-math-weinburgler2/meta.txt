@@ -1,0 +1,43 @@
+-- Who worked on this lab?
+Carter Weinberg
+
+
+
+-- How many hours did it take you to complete this lab?
+6
+
+
+-- Describe your approach to implementing the lab.
+I first got the testing library working, then I wrote tests and functions/methods one at a time 
+till I was done.
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+I wrote 4 more functions that I thought would be of use. They include two == operator overrides,
+a sgrmagnitude function, and a lerp function.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Nope.
+
+
+-- Did you use any external resources? If so, cite them below.
+Yeah, so I used 
+https://keithmaggio.wordpress.com/2011/02/15/math-magician-lerp-slerp-and-nlerp/
+https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/v/linear-algebra-vector-examples
+https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/matrix-multiplication-intro
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+Nope.
+
+
+-- (Optional) What was your favorite part of the lab?
+Ehh, the coding was enjoyable.
+
+
+-- (Optional) How would you improve the lab?
+So, the way I did the matrix multiplication was a real pain. I get why we need to do it,
+but dear god it was annoying. Maybe there was a better way, but I didn't know it.
+
+Some parts of this lab also seemed a bit repetitive. But I am also not sure that should be changed.

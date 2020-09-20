@@ -1,0 +1,46 @@
+-- Who worked on this lab?
+Carter Weinberg and Megharth Lakhataria
+
+
+
+-- How many hours did it take you to complete this lab?
+About 6.
+
+
+
+-- Describe your approach to implementing the lab.
+I read through the tutorials for the first part. Not much to explain there.
+For the second part, I basically just googled around until I found a youtube tutorial 
+that described how to animate an image. 
+
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+Not quite sure what you mean by extention. But I don't think so. 
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Nope, this is the first lab.
+
+
+-- Did you use any external resources? If so, cite them below.
+Yeah, so obviously there is the sdl2 tutorial we need for the first part of the lab here https://www.willusher.io/pages/sdl2/.
+Then I used these two youtube videos to help me animate my foreground: 
+https://www.youtube.com/watch?v=44tO977slsU&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&index=3
+https://www.youtube.com/watch?v=YrWQsuDT3NE&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx&index=4
+
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+Nope. 
+
+
+-- (Optional) What was your favorite part of the lab?
+Just learning how to use SDL in general was nice.  
+
+
+-- (Optional) How would you improve the lab?
+I really did not like getting this set up with Eclipse, so much so I gave up and decided to just use vscode without any extra bells and 
+whistles like syntax highlighting or intellisense. 
+
+Honestly, I think the class should just recommend vscode or vim cause I don't like eclipse and don't really see the point in using it. 

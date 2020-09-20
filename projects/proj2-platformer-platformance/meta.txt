@@ -1,0 +1,35 @@
+-- Who worked on this project?
+	>Jake Dec, Carter Weinberg, Red Wyant, Nicolas Karayakaylar
+
+-- How many hours did it take you to complete this project? (answer for each milestone)
+	>I, Nicolas, took a solid 24 hours just by myself. Shouldn't have taken that long, but I'm dumb.
+	Jake (6? Mostly helping debug), Maybe 12-14 for the other 2 milestones
+
+-- Did you implement any extensions? If so, which ones and how can they be tried out? Who implemented each?
+	Jake - Camera controller to keep the player in frame
+	Jake - Parallax Backgrounds
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+	>We used the ResourceManager, SDLGraphicsProgram, Brick, FrameRate, AudioManager from the last assignment. We also modified collision and the Player classes to suit our needs for this assignment.
+	Jake - Just about everything from lab 7
+
+-- Did you use any external resources? If so, cite them below.
+
+	Our dark, edgy background music is royalty-free and was composed by Mattia Cupelli. Its liscense is included in the project structure. -R
+	Our "jump" sound effect is also royalty-free, and its author asked to be credited as "dklon." The sounds were obtained here: 
+		https://opengameart.org/content/platformer-jumping-sounds
+	Our coin and goal sounds were found here (only used "Blaster_long.wav" and "Blink.wav"):
+		https://opengameart.org/content/sound-effects-for-platformer
+	Our enemy sound was found here (only used "Hurt.ogg"):
+		https://opengameart.org/content/platform-small-sound-effect-pack
+	Background from 
+		https://digitalmoons.itch.io/parallax-forest-background
+	
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+	>I, Nicolas, discussed this topic with Josh extensively.
+
+-- (Optional) What was your favorite part of the project?
+	>I like that we can use our own assets!
+
+-- (Optional) How would you improve the project?

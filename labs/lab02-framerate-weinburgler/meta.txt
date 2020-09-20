@@ -1,0 +1,42 @@
+-- Who worked on this lab?
+Carter Weinberg 
+
+
+
+-- How many hours did it take you to complete this lab?
+About 4-5
+
+
+-- Describe your approach to implementing the lab.
+I worked through the tutorials which helped a lot. I ran into an issue
+where when I originally outputted the framerate before I capped it, the number would be 
+very large and just keep counting up. 
+This issue fixed itself when I capped the framerate.
+
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+Yeah, I did the one where the boxes change colors and speeds depending on the colors.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Yeah, I used the render, rendertext, and cleanup functions from lab1.
+
+
+-- Did you use any external resources? If so, cite them below.
+Yes so there are the two linked tutorials and one youtube video I found.
+http://lazyfoo.net/tutorials/SDL/24_calculating_frame_rate/index.php
+http://lazyfoo.net/tutorials/SDL/25_capping_frame_rate/index.php
+https://www.youtube.com/watch?v=jzasDqPmtPI
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+No
+
+
+-- (Optional) What was your favorite part of the lab?
+Watching the boxes move on screen.
+
+
+-- (Optional) How would you improve the lab?
+I think its fine as is other than my issue with the framerate number.

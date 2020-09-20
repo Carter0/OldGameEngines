@@ -1,0 +1,35 @@
+-- Who worked on this lab?
+Carter Weinberg 
+
+
+-- How many hours did it take you to complete this lab?
+2.5
+
+
+-- Describe your approach to implementing the lab.
+Just going through the instructions and doing things.
+I have a mac so I decided to run everything on the khoury linux servers.
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+Yeah, I "fixed" the code's memory errors. And by that I mean I copied over the fixed code.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Nope. 
+
+
+-- Did you use any external resources? If so, cite them below.
+Nope. 
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+Nope. 
+
+
+-- (Optional) What was your favorite part of the lab?
+It was okay, no real favorite parts.
+
+
+-- (Optional) How would you improve the lab?
+*Shrug*

@@ -1,0 +1,37 @@
+-- Who worked on this lab?
+Carter Weinberg 
+
+
+-- How many hours did it take you to complete this lab?
+5
+
+
+-- Describe your approach to implementing the lab.
+I tried to do it first with a shared pointer, but quickly realized that was not the way.
+Then I realized I could watch a video and see them explain how to use a map to do it, and did it that way.
+I then fixed some bugs, and the rest wasn't too hard.
+
+
+-- Did you implement any extentions? If so, which ones and how can they be tried out?
+Yeah, I added all the frames to the animation.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+Nope. 
+
+
+-- Did you use any external resources? If so, cite them below.
+Nope. 
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+Yeah, I did collab with my groupmates for the project. I asked them for help a lot with my bugs and stuff.
+
+
+-- (Optional) What was your favorite part of the lab?
+Seeing the animation. 
+Learning more about allocation.
+
+
+-- (Optional) How would you improve the lab?
+I think its fine as is.

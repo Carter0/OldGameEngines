@@ -1,0 +1,26 @@
+- In C++ what are two instances where you would use the keyword const?
+Const can be used a few different ways in c++. You can use it to state that a method
+cannot alter the data of a class. You can also use it to say that a properties value can not change
+and that it's reference cannot be changed. 
+
+- What does 'inline' do? Why might a programmer use it?
+Inline takes a function and through it inside its calling function. 
+When you don't want to create a new stack frame for the function. This is typically true of small functions
+where the cost of making a new stack frame is unneccessary. 
+For large functions, it might be worth it to create a new stack frame because a new stack frame resets
+the stacks registers, allowing the method or function to have access to optimizations involving the 
+now unused registers.
+
+- Why do you think TinyMath.hpp is implemented as a header only library? (Sometimes you will see this, and you may research [.inl files](https://stackoverflow.com/questions/1208028/significance-of-a-inl-file-in-c) in C++)
+Because our classes have a lot of inline methods. 
+Inline functions and methods have a "one definition rule", meaning that for the whole program 
+there cannot be more than one definition for that method. 
+If you put inline functions in the header file, it garantees every class that implements that file has the exact same definition
+since the preproccessor copies over the file for each translation unit.
+
+- How do the the Vector3D::operator[] functions work? What is a benefit and drawback of implementing it this way?
+This is an operator overloading method. It replaces the existing use of, in this case, the "[]" operator and 
+replaces it with our own definition.
+Benefit: You might now have a more intuitive way to use certain classes. 
+Drawback: If another user tries to use your class, they might think that the operator you overloaded still
+had its old definition, so the program will not do what they expect it to do.

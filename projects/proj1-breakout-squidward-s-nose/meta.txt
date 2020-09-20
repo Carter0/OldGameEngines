@@ -1,0 +1,27 @@
+-- Who worked on this project?
+	>Carter, Jake, Nicolas, & Red
+
+-- How many hours did it take you to complete this project? (answer for each milestone)
+	>Mostly guessing here, but I, Nicolas, think it's probably about 16 man-hours.
+	Jake (3,2,10)
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+	FrameRate Class from Lab 2 (Jake)
+	Main event loop from Lab 2 (Jake)
+	Resource Manager from Lab 2 (Carter)
+	SDL Pointer Wrapper template from Resource Manager Lab (Jake)
+
+-- Did you use any external resources? If so, cite them below.
+	https://opengameart.org/content/breakout-brick-breaker-tile-set-free (Jake)
+	https://github.com/opensourcedesign/fonts/blob/master/gnu-freefont_freesans/FreeSans.ttf (Jake)
+	https://lazyfoo.net/SDL_tutorials/lesson11/index.php (Jake)
+	
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+	>I, Nicolas, utilized Josh a lot. Couldn't have done it without him.
+	No (Jake)
+
+-- (Optional) What was your favorite part of the project?
+	> I, Nicolas, really enjoy how the finished product is an actual playable game.
+
+-- (Optional) How would you improve the project?
+	>Don't give it out at the same time as another really big project? The stress that causes is just unnecessary. I'd rather this assignment be twice as big, instead.
